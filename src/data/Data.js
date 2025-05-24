@@ -8,7 +8,6 @@ import {
   UilUsersAlt,
   UilPackage,
   UilChart,
-  UilSignOutAlt,
   UilMoneyWithdrawal,
   UilUsdSquare
 } from "@iconscout/react-unicons";
