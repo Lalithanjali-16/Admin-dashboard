@@ -37,6 +37,7 @@ export const SidebarData =[
 
 export const cardsData = [
   {
+    id:1,
     title: "Sales",
     color: {
       backGround: "linear-gradient(180deg, #bb67ff 0%, #c484f3 100%)",
@@ -53,6 +54,7 @@ export const cardsData = [
     ],
   },
   {
+    id:2,
     title: "Revenue",
     color: {
       backGround: "linear-gradient(180deg, #FF919D 0%, #FC929D 100%)",
@@ -69,6 +71,7 @@ export const cardsData = [
     ],
   },
   {
+    id:3,
     title: "Expenses",
     color: {
       backGround:
